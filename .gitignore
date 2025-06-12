@@ -1,0 +1,21 @@
+# Backup files
+*.tar.gz
+mik_backup_*
+
+# Reorganization temp files
+mik_reorg/
+~/mik_reorg/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
